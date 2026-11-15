@@ -2,7 +2,7 @@
 
 ## Centro de Investigación de Pastos Tropicales
 
-Espacio de desarrollo y colaboración del CIPAT · Grupo Papalotla, enfocado en la investigación de forrajes tropicales y el desarrollo de herramientas para su caracterización fenotípica.
+Espacio de desarrollo y colaboración de CIPAT · Grupo Papalotla, enfocado en la investigación de forrajes tropicales y el desarrollo de herramientas para su caracterización fenotípica.
 
 Integramos información de ensayos de campo, imágenes obtenidas con drones y análisis de datos para estudiar la variación entre materiales y apoyar su evaluación.
 
